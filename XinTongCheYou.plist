@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://ins.yifubaoxian.com/mapp/yifubao/ios/YiFuBao.ipa</string>
+					<string>http://ybt.countnet.cn/mapp/xtcy/ios/XinTongCheYou.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.countnet.xiean</string>
+				<string>com.countnet.xtcy</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>怡富保</string>
+				<string>信通车友</string>
 			</dict>
 		</dict>
 	</array>
